@@ -21,8 +21,9 @@ tagline: Bachelor of Statistics, Musically Challenged.
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
-baseurl: "/Tan-0-0"
+baseurl: ""
 url: "https://Tan-0-0.github.io"
+
 
 
 github:
