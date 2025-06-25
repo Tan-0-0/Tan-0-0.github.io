@@ -5,16 +5,12 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-</div>
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Image Section -->
   <div style="flex: 0 0 auto;">
     <img src="/assets/img/pfp.jpg" alt="profile photo" style="width: 200px; border-radius: 50%;">
   </div>
-
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Text Section -->
   <div style="flex: 1; min-width: 300px;">
