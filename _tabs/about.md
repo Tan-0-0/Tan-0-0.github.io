@@ -1,35 +1,48 @@
 ---
 layout: page
-title: about
+title: About
 icon: fas fa-info-circle
 order: 1
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-  <!-- Image Section -->
-  <div style="flex: 0 0 auto;">
-    <img src="/assets/img/pfp.jpg" alt="profile photo" style="width: 200px; border-radius: 50%;">
-  </div>
+<!-- Image Section -->
+<div style="flex: 0 0 auto;">
+  <img src="/assets/img/pfp.jpg" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 8px rgba(0,0,0,0.4);">
+</div>
 
-  <!-- Text Section -->
-  <div style="flex: 1; min-width: 300px;">
+<!-- Text Section -->
+<div style="flex: 1; min-width: 300px;">
 
-  ### *Tanishq Kumar Prasad*
+### Tanishq Kumar Prasad
 
-  Welcome to my homepage! I am a student of *Statistics* at the *Indian Statistical Institue, Kolkata*. I completed my undergraduate studies this year (2025)
-  and am preparing for my Masters.
+Welcome to my homepage! I am a student of **Statistics** at the *Indian Statistical Institute, Kolkata*.  
+I completed my undergraduate studies this year (2025) and am preparing for my Masters.
 
-  I am primarily interested in various aspects of *Time Series Analysis, **Machine Learning, **Stochastic Processes* and *Non-Parametric Statistics*. 
-  I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet.  I have an inclination towards theoretical work, and enjoy studying various topics with appropriate rigour.
+I am primarily interested in various aspects of **Time Series Analysis**, **Machine Learning**, **Stochastic Processes**, and **Non-Parametric Statistics**.  
+I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet. I have an inclination towards theoretical work and enjoy studying various topics with appropriate rigour.
 
-  ## *Purpose of this website*
+---
 
-  This website was created with the purpose of disseminating knowledge about various areas of Statistics which I have enjoyed throughout the years. It will mostly include 
-  rigourous write-ups regarding various topics which one might be interested in as an undergrad. Some reading material made by me during my undergrad will also be uploaded, 
-  but those will not be very organized; just certain documents one might find useful. This is a work in progress and will take a lot of time and effort; hence I will almost surely
-  not be updating it during my semesters.
+### Purpose of this Website
 
- ##*Contact*
+This website was created with the purpose of disseminating knowledge on topics in statistics I've enjoyed throughout my undergraduate years.  
+You’ll find:
 
- You can reach out to me at [mailto:tpisical@gmail.com](tpisical@gmail.com) for suggestions, corrections and the lot.
+- Rigorous write-ups on undergraduate-level statistical topics
+- Some unpolished, downloadable reading material I prepared from time to time as an undergraduate (often collaborating with classmates),
+  which one might find useful as a B. Stat student
+   
+
+This is a **work in progress**. I (almost surely) won’t update it during semester time, but I hope what’s here proves useful.
+
+---
+
+### Contact
+
+You can reach me at [tpisical@gmail.com](mailto:tpisical@gmail.com)  
+Suggestions, corrections, and feedback are very welcome!
+
+</div>
+</div>
