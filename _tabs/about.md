@@ -11,9 +11,7 @@ order: 1
 <div style="flex: 0 0 auto;">
   <img src="/assets/img/pfp.jpg" alt="Profile Photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 8px rgba(0,0,0,0.4);">
 </div>
-
-<!-- Text Section -->
-<div style="flex: 1; min-width: 300px;">
+</div>
 
 ### Tanishq Kumar Prasad
 
@@ -52,5 +50,3 @@ This is a **work in progress**. I (almost surely) won’t update it during semes
 You can reach me at [tpisical@gmail.com](mailto:tpisical@gmail.com)  
 Suggestions, corrections, and feedback are very welcome!
 
-</div>
-</div>
