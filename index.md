@@ -1,0 +1,34 @@
+---
+layout: home
+title: Tanishq Kumar Prasad
+permalink: /
+---
+
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 300px;">
+
+  ### **Tanishq Kumar Prasad**
+
+  Welcome to my homepage! I am a student of **Statistics** at the **Indian Statistical Institue, Kolkata**. I completed my undergraduate studies this year (2025)
+  and am preparing for my Masters.
+
+  I am primarily interested in various aspects of **Time Series Analysis**, **Machine Learning**, **Stochastic Processes** and **Non-Parametric Statistics**. 
+  I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet.  I have an inclination towards theoretical work, and enjoy studying various topics with appropriate rigour.
+
+  ## **Purpose of this website**
+
+  This website was created with the purpose of disseminating knowledge about various areas of Statistics which I have enjoyed throughout the years. It will mostly include 
+  rigourous write-ups regarding various topics which one might be interested in as an undergrad. Some reading material made by me during my undergrad will also be uploaded, 
+  but those will not be very organized; just certain documents one might find useful. This is a work in progress and will take a lot of time and effort; hence I will almost surely
+  not be updating it during my semesters.
+    
+  </div>
+
+  <!-- Image Section -->
+  <div style="flex: 0 0 auto;">
+    <img src="/assets/img/pfp.jpg" alt="profile photo" style="width: 200px; border-radius: 50%;">
+  </div>
+
+</div>
