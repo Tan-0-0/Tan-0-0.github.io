@@ -16,5 +16,5 @@ Below are some downloadable documents:
 
 - [A writeup on the Mean Ergodic Theorem]
 - [Presentation Highlights for Selected Papers for Comprehensive '25]
-- [Viva Experience for Comprehensive '25]( /assets/files/viva_experience_2022_2025.docx ){: download style="padding:10px 15px; background:#007bff; color:white; border-radius:6px; text-decoration:none;" }
+- [Viva Experience for Comprehensive '25]( /assets/files/viva_experience_2022_2025.docx ){:download}
 
