@@ -23,6 +23,14 @@ I completed my undergraduate studies this year (2025) and am preparing for my Ma
 I am primarily interested in various aspects of **Time Series Analysis**, **Machine Learning**, **Stochastic Processes**, and **Non-Parametric Statistics**.  
 I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet. I have an inclination towards theoretical work and enjoy studying various topics with appropriate rigour.
 
+Here is my C.V., in case you are interested:
+<p style="margin-top: 20px;">
+  <a href="/assets/files/cv.pdf" class="btn" target="_blank" style="padding: 10px 18px; background: #007bff; color: white; border-radius: 6px; text-decoration: none;">
+    📄 Download CV
+  </a>
+</p>
+
+
 ---
 
 ### Purpose of this Website
