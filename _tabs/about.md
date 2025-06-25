@@ -25,7 +25,7 @@ I aim to pursue research in Statistics in the near future, though I have not nar
 
 Here is my C.V., in case you are interested:
 <p style="margin-top: 20px;">
-  <a href="/assets/files/cv.pdf" class="btn" target="_blank" style="padding: 10px 18px; background: #007bff; color: white; border-radius: 6px; text-decoration: none;">
+  <a href="/assets/files/CV 17.06.25.pdf" class="btn" target="_blank" style="padding: 10px 18px; background: #007bff; color: white; border-radius: 6px; text-decoration: none;">
     📄 Download CV
   </a>
 </p>
