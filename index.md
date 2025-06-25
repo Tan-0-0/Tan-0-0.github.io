@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tanishq Kumar Prasad
+title: Home
 permalink: /
 ---
 
