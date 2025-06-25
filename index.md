@@ -4,6 +4,15 @@ title: Tanishq Kumar Prasad
 permalink: /
 ---
 
+ </div>
+
+  <!-- Image Section -->
+  <div style="flex: 0 0 auto;">
+    <img src="/assets/img/pfp.jpg" alt="profile photo" style="width: 200px; border-radius: 50%;">
+  </div>
+
+</div>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Text Section -->
@@ -24,11 +33,4 @@ permalink: /
   but those will not be very organized; just certain documents one might find useful. This is a work in progress and will take a lot of time and effort; hence I will almost surely
   not be updating it during my semesters.
     
-  </div>
-
-  <!-- Image Section -->
-  <div style="flex: 0 0 auto;">
-    <img src="/assets/img/pfp.jpg" alt="profile photo" style="width: 200px; border-radius: 50%;">
-  </div>
-
-</div>
+ 
