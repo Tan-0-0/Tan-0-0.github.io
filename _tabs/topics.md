@@ -12,3 +12,9 @@ Here are some topics you might be interested in:
 - [Machine Learning Basics](/topics/machine-learning/)
 - [Basic Measure Theoretic Probability](/topics/probability/)
 
+Below are some downloadable documents:
+
+- [A writeup on the Mean Ergodic Theorem]
+- [Presentation Highlights for Selected Papers for Comprehensive '25]
+- [Viva Experience for Comprehensive '25]
+
