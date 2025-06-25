@@ -6,7 +6,7 @@ order: 4
 
 ![My Profile Image](/assets/img/pfp.jpg){: width="250" style="border-radius: 50%;"}
 
-I am a Bachelor of Statistics (2022-2025) graduate from Indian Statistical Institute, Kolkata. I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet. Some areas which I have come to like while exploring are Machine Learning, Time Series Analysis, Stochastic Processes and Non-parametric statistics. I have an inclination towards theoretical work, and enjoy studying various topics with appropriate rigour.
+I am a Bachelor of Statistics (2022-2025) graduate from Indian Statistical Institute, Kolkata. I aim to pursue research in Statistics in the near future, though I have not narrowed down my interests yet. Some areas which I have come to like while exploring are Machine Learning, Time Series Analysis, Stochastic Processes and Non-Parametric Statistics. I have an inclination towards theoretical work, and enjoy studying various topics with appropriate rigour.
 
 ## Purpose of this website
 
