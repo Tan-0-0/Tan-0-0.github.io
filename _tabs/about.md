@@ -33,3 +33,7 @@ order: 1
   rigourous write-ups regarding various topics which one might be interested in as an undergrad. Some reading material made by me during my undergrad will also be uploaded, 
   but those will not be very organized; just certain documents one might find useful. This is a work in progress and will take a lot of time and effort; hence I will almost surely
   not be updating it during my semesters.
+
+ ##*Contact*
+
+ You can reach out to me at [mailto:tpisical@gmail.com](tpisical@gmail.com) for suggestions, corrections and the lot.
