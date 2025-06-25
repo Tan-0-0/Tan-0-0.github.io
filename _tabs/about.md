@@ -48,5 +48,5 @@ This is a **work in progress**. I (almost surely) won’t update it during semes
 ### Contact
 
 You can reach me at [tpisical@gmail.com](mailto:tpisical@gmail.com)  
-Suggestions, corrections, and feedback are very welcome!
+Suggestions, corrections, and feedback are welcome!
 
